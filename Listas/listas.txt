@@ -1,0 +1,4 @@
+• Temos as listas ordenadas e não ordenadas em Markdown;
+
+• Não ordenadas começam os itens com -> * Item
+• Listas ordenadas -> 1. Item

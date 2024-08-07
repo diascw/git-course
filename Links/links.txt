@@ -1,0 +1,2 @@
+Demonstração da sintaxe -> [Texto do link](link)
+- se for um link do GitHub pode inserir de forma direta.
