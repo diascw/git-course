@@ -4,3 +4,22 @@ Cabeçalhos são títulos ou também headings do HTML
 • # -> h1 
 • ## -> h2
 • ### -> h3 
+
+
+Demonstração:
+
+# E-commerce empresa X
+
+descrição do E-commerce...
+
+## Funcionalidades
+
+descrição das funcionalidades
+
+
+####### Melhoorias do projeto
+
+Requisito 01
+Requisito 02
+Requisito 03
+
