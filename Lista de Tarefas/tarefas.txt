@@ -1,0 +1,5 @@
+Tarefas concluídas -> -[x] tarefa 01 
+Tarefas não concluídas -> -[] tarefa 02
+
+- Esta sintaxe é do Markdown especial do GitHub.
+
