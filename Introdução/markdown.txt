@@ -1,0 +1,3 @@
+O Markdown é uma forma de adicionar estilo a textos na Web;
+O arquivo README.md aceita Markdown;
+É possível exibir trechos de código, links, imagens etc..
