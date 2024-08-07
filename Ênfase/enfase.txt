@@ -1,5 +1,3 @@
-Demonstração:
-
 Negrito: **texto** ou __texto__
 Itálico: *texto* ou _texto_
 Combinação de ambos: _um **texto** combinado_ 
