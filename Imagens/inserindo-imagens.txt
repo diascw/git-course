@@ -1,0 +1,7 @@
+Sintaxe -> ![texto Alt](link imagem);
+
+a imagem pode ser externa ou estar no próprio repositório
+
+imagem local:
+
+![logo da empresa X](img/logo.png)
